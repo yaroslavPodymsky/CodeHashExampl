@@ -1,1 +1,9 @@
-("{\"entString\":\"{}\",\"entNumber\":\"{}\",\"entAddress\":\"{}\",\"entDate\":\"{}\",\"entTime\":\"{}\"}",entString,entNumber,entAddress,entDate,entTime);
+{
+    "Result": [{
+        "ProviderCode": 678,
+        "CountryIso": "WDL",
+        "Name": "Wonderland",
+        "LogoUrl": "http://path.to.logo/url"
+    }],
+    "Status": "success"
+}
