@@ -1,11 +1,2 @@
-{
-    "Result": [{
-        "ProviderCode": 678,
-        "CountryIso": "WDL",
-        "Name": "Wonderland",
-        "LogoUrl": "http://path.to.logo/url"
-    }],
-    "Status": "success"
-}
 string1 = "Hey, this is a string that is stored at the specified address";
 string2 = "bye";
