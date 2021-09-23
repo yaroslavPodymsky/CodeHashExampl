@@ -1,3 +1,4 @@
-string1 = "Hey, this is a string that is stored at the specified address";
-string2 = "bye";
-"{\"entString\":\"{}\",\"entNumber\":\"{}\",\"entAddress\":\"{}\",\"entDate\":\"{}\",\"entTime\":\"{}\"}"
+json = format("{\"entString\":\"{}\",\"entNumber\":\"{}\"}",
+                100,
+                200
+            );
